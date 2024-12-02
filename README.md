@@ -10,7 +10,7 @@ This guide assumes you have Docker installed and accessible from your command li
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kartikvermaa/ec2
+   git clone https://github.com/kartikvermaa/EC2
    ```
 
 2. Navigate to the project directory:
